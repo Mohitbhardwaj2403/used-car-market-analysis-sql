@@ -141,6 +141,11 @@ The analysis is performed on a dataset containing over **8,148 vehicle records**
 │
 └── README.md
 ```
+---
+
+## ScreenShot
+
+-<img width="1690" height="931" alt="ChatGPT Image Jun 26, 2026 at 01_09_04 PM" src="https://github.com/user-attachments/assets/84ebd5e0-7db8-4dda-ac53-7696a92077c9" />
 
 ---
 
@@ -179,30 +184,3 @@ Aspiring Data Analyst
 
 - LinkedIn: *(Add your LinkedIn profile)*
 - GitHub: https://github.com/Mohitbhardwaj2403
-
----
-⭐ If you found this project useful, consider giving it a Star.
-
-automotive-industry-sql-analysis/
-│
-├── Dataset
-│   └── car_info.csv
-│
-├── SQL Queries
-│   └── automotive_analysis.sql
-│
-├── Report
-│   └── Exploring Trends in the Automotive Industry.pdf
-│
-├── Presentation
-│   └── Automotive_SQL_Project_Presentation.pptx
-│
-├── Images
-│   ├── dashboard.png
-│   ├── query1.png
-│   ├── query2.png
-│   └── workflow.png
-│
-├── LICENSE
-│
-└── README.md
