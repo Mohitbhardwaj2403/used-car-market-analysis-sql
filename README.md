@@ -182,5 +182,5 @@ Aspiring Data Analyst
 
 ### Connect with me
 
-- LinkedIn: *(Add your LinkedIn profile)*
+- LinkedIn: www.linkedin.com/in/mohitbhardwaj2403
 - GitHub: https://github.com/Mohitbhardwaj2403
